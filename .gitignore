@@ -146,4 +146,5 @@ static
 .idea/
 
 #csv files
-csv_files/*.csv
+csv_files/california_housing_test.csv
+csv_files/california_housing_train.csv
